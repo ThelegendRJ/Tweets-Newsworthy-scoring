@@ -1,7 +1,7 @@
-**Geo-Tagged Tweet Analysis and Newsworthiness Scoring**
+***Geo-Tagged Tweet Analysis and Newsworthiness Scoring***
 
-**Overview
-**
+**Overview**
+
 This project focuses on analyzing a dataset of approximately 10-20K tweets from London/UK, provided in JSON format. The key objectives of this project include spatial analysis of tweets, developing a newsworthiness scoring system, and visualizing the results.
 
 **Project Objectives**
